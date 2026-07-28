@@ -1,2 +1,3 @@
-# TaskTracker
-TaskTracker
+# TaskTracker ⚡️
+
+✨ Минималистичный локальный трекер задач.
